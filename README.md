@@ -2,7 +2,7 @@
 Assignment 3
 
 ## Responsive Navigation Bar
-I used the Bootstrap guide in order to implement a responsive navigation bar with a hamburger menu. I ran into issues because the hamburger menu would not toggle open so I asked the professor for assistance. 
+I used the Bootstrap guide in order to implement a responsive navigation bar with a hamburger menu. I ran into issues because the hamburger menu would not toggle open so I asked the professor for assistance. The issue was related to the version of Javascript being used and my CSS overriding the Bootstrap CSS.
 
 [Link here](https://getbootstrap.com/docs/4.3/components/navbar/#color-schemes)
 
@@ -23,3 +23,6 @@ I ran into issues with nesting because I was trying to achieve a very specific h
 I used the bootstrap guide in order to create a 12-column layout and align items inside the columns. 
 
 [Link here](https://getbootstrap.com/docs/4.0/layout/grid/#responsive-classes)
+
+## Header Image
+I was using positioning to achieve the desired look but after speaking to the professor realized that it would be best to make the header image a background image of the section and then use opacity and an overlay to only affect the color of the image and not the content above it.
